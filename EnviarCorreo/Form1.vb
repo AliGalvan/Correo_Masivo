@@ -56,6 +56,9 @@ Public Class FrmCorreo
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Me.OpenFileDialog1.InitialDirectory = ".\"
+        Me.OpenFileDialog1.Filter = "Archivo de Texto (*.txt)|*.txt|Todos los Archivos (*.*)|*.*"
+        Me.OpenFileDialog1.FileName = ""
         Try
             Me.OpenFileDialog1.ShowDialog()
             If Me.OpenFileDialog1.FileName <> "" Then
