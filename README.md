@@ -1,7 +1,7 @@
 # Correo_Masivo
 Programa en Vb .NET para enviar correo masivo de uno a uno con archivo adjunto
 
-Solo funciona con cuentas de Gmail, para que funcione con otras cuentas editar la direccion y los puesto SMTP.
+Solo funciona con cuentas de Gmail, para que funcione con otras cuentas editar la direccion y los puertos SMTP a los del dominio a ocupar.
 
 Para Gmail tiene que activar la opcion de SEGURIDAD -> "Acceso de aplicaciones poco seguras" de caso contrario no permitira conectarse.
 
