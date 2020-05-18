@@ -1,0 +1,43 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\Escritorio\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.xml
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.FrmCorreo.resources
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Resources.resources
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vbproj.GenerateResource.Cache
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.xml
+D:\Escritorio\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\Descargas\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Descargas\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\Descargas\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.xml
+D:\Descargas\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\Descargas\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.FrmCorreo.resources
+D:\Descargas\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.Resources.resources
+D:\Descargas\EnviarCorreo\EnviarCorreo\obj\Debug\EnviarCorreo.vbproj.GenerateResource.Cache
+D:\Descargas\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\Descargas\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\Descargas\EnviarCorreo\EnviarCorreo\bin\Debug\EnviarCorreo.xml
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\obj\Debug\EnviarCorreo.xml
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\bin\Debug\EnviarCorreo.xml
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\obj\Debug\EnviarCorreo.FrmCorreo.resources
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\obj\Debug\EnviarCorreo.Resources.resources
+D:\Descargas\EnviarCorreoConArchivoAdjunto\EnviarCorreo\obj\Debug\EnviarCorreo.vbproj.GenerateResource.Cache
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\bin\Debug\EnviarCorreo.exe.config
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\bin\Debug\EnviarCorreo.exe
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\bin\Debug\EnviarCorreo.pdb
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\bin\Debug\EnviarCorreo.xml
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.vbprojAssemblyReference.cache
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.FrmCorreo.resources
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.Resources.resources
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.vbproj.GenerateResource.cache
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.vbproj.CoreCompileInputs.cache
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.exe
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.xml
+D:\Ali Galvan\Documents\Visual Studio 2017\Projects\Correo_Masivo\EnviarCorreo\obj\Debug\EnviarCorreo.pdb
